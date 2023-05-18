@@ -9,6 +9,8 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  - Procure por **Desk Contact** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
  - Após a instalação da extensão, siga os passos abaixo;
  
+ **OBS**: Será listado clientes que possuem telefone cadastrado. 
+ 
  # Como configurar?
  
   - Basta apenas clicar no botão **Ativar Extensão**, conforme tela abaixo:
