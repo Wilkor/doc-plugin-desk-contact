@@ -1,5 +1,4 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
-
+![icone_github](https://github.com/Wilkor/doc-plugin-desk-contact/assets/34819624/a07a2037-4b24-4593-b8f2-c356f2b9c585)
 
 # Como utilizar a extensão Desk Contact!
 
